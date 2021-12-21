@@ -5,7 +5,7 @@
 **Rubika** (روبیکا)is an iranian super application and offers you all the most widely used apps you need.
 
 # What's this project ?
-this project is usefull for Junior or senior developer may create similar  app like rubika , shad and etc.
+This Project is Usefull for Junior or Senior Developer may Create Similar  app like rubika , shad and etc.
 
-# MadeBy
+# MadeBy : 
 **Andriod Studio**
