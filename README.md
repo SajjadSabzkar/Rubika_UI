@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/Screenshot_1.png" width="250"></p>
+<p align="center"><img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/screenshots/Screenshot_1.png" width="250"></p>
 
 
 # Rubika_Ui
