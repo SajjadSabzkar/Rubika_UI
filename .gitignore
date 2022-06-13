@@ -2,7 +2,7 @@ app/build
 gradlew
 gradlew.bat
 gradle/
-localproperties
+local.properties
 *.iml
 .gradle/
 .idea/
