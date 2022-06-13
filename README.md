@@ -6,7 +6,7 @@
 </p>
 
 
-# Rubika_Ui
+# Rubika
 **Rubika** (روبیکا)is an iranian super application and offers you all the most widely used apps you need.
 
 # What's this project ?
