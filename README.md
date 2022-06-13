@@ -1,4 +1,9 @@
-<p align="center"><img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/screenshots/Screenshot_1.png" width="250"></p>
+<p align="center">
+<img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/screenshots/Screenshot_1.png" width="200">
+<img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/screenshots/Screenshot_2.png" width="200">
+<img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/screenshots/Screenshot_3.png" width="200">
+<img src="https://github.com/SajjadSabzkar/Rubika_Ui/blob/main/screenshots/Screenshot_4.png" width="200">
+</p>
 
 
 # Rubika_Ui
